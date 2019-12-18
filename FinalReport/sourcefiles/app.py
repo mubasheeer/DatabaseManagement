@@ -303,34 +303,5 @@ def q10():
 
 	return render_template('query10.html')
 
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-	
-
-
-
-
-
-	
-
-
-
-
-
-
-
-
 if __name__ == '__main__':
 	app.run(debug = True)
